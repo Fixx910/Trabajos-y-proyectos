@@ -1,0 +1,1 @@
+Se construyo un automata que busca palabras en contra de la mujer.
