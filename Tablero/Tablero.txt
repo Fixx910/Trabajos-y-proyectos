@@ -1,0 +1,1 @@
+Pequeño juego de dos piezas. Usado para busqueda de rutas y validaciones. 
